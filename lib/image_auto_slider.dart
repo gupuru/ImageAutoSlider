@@ -51,7 +51,7 @@ class ImageAutoSliderState extends State<ImageAutoSlider> {
         page++;
       } else {
         page = 0;
-        milliseconds = 10;
+        milliseconds = 1;
       }
 
       _controller.animateToPage(
