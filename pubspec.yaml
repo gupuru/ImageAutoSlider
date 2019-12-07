@@ -2,7 +2,7 @@ name: image_auto_slider
 description: image slide.
 version: 0.0.1
 author: Kohei Niimi <kohei.niiimi@gupuru.com>
-homepage:
+homepage: https://github.com/gupuru/ImageAutoSlider
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
