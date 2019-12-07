@@ -1,0 +1,21 @@
+name: image_auto_slider_example
+description: image slider library example
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  image_auto_slider:
+    path: ../
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
